@@ -9,6 +9,4 @@ cd cli
 tar -zxvf *
 cd ..
 
-g++ main.cpp
-mv a.out dog
 mv dog cli/linux-x64
