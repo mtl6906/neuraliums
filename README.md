@@ -4,10 +4,6 @@ cd neuralium
 sh install.sh
 
 2. 使用
-#	确认license(每次更新版本, 第一次运行时需要执行)
-node/linux-x64/Neuraliums
-输入YES
-CTRL+C杀死进程
 #	后台运行
 screen sh execute.sh
 LoadWallet
